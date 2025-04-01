@@ -2,4 +2,4 @@ title: Chattanooga Neighborhood Greenways
 description: Website for creating neighborhood greenways in Chattanooga, TN. 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: dieghernan/chulapa
